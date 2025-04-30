@@ -1,0 +1,3 @@
+﻿  Assembling teste.asm...
+legacy_stdio_wide_specifiers.lib(legacy_stdio_wide_specifiers.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+  AssemblyVamoLa.vcxproj -> D:\VisualCode2022Assembly\AssemblyVamoLa\x64\Debug\AssemblyVamoLa.exe
